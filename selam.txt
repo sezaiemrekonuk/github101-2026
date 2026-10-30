@@ -1,2 +1,2 @@
 selamlar git ogrenenler
-versiyon 3
+versiyon 1.1
